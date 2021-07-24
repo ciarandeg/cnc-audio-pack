@@ -1,0 +1,214 @@
+{
+  "composers": {
+    "Sound": { "promo": "https://www.youtube.com/channel/UC8eLK3cRQ8xfBS-cpynkh-g" },
+    "Shift+": { "promo": "https://soundcloud.com/landonhilde" },
+    "Muffintasticman": { "promo": "https://m.soundcloud.com/muffintunesclaripella" },
+    "LilJerry": { "promo": "https://james-fuentes.bandcamp.com/" },
+    "equiston": { "promo": "http://equiston.com" },
+    "Arcane Strain": { "promo": "https://arcanestrain.bandcamp.com/" },
+    "Key": { "promo": "https://twitter.com/SporadicRat_" },
+    "Cashwarrior": { "promo": "https://www.youtube.com/channel/UCTIYS4YXyp-Rwoo2BRNz_qA" },
+    "spookl": {},
+    "Sinnoh": {},
+    "Notecade": {},
+    "David Maar": {},
+    "Benbinos": {}
+  },
+  "groups": {},
+  "songs": {
+    "agoora": {
+      "title":   "Agoora",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "equiston",
+      "bodies":  [ "agoora" ],
+      "tags":    [ "agoora", "slime", "upbeat" ]
+    },
+    "aquatic_sewers": {
+      "title":   "Aquatic Sewers",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "spookl",
+      "bodies":  [ "aquatic_sewers" ],
+      "tags":    []
+    },
+    "black_whistle": {
+      "title":   "Black Whistle",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Shift+",
+      "bodies":  [ "black_whistle" ],
+      "tags":    [ "slime", "ruins", "melancholic", "strings", "orchestral" ]
+    },
+    "dark_bubbles": {
+      "title":   "Dark Bubbles",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Shift+",
+      "bodies":  [ "dark_bubbles" ],
+      "tags":    [ "slime", "ambient", "synths", "water", "dark", "sewer" ]
+    },
+    "dissipate": {
+      "title":   "I Dissipate",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "LilJerry",
+      "bodies":  [ "dissipate" ],
+      "tags":    [ "dark", "discovery", "slime", "mysterious", "slow", "eerie" ]
+    },
+    "drifting": {
+      "title":   "Drifting",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Shift+",
+      "bodies":  [ "drifting" ],
+      "tags":    [ "slime", "upbeat", "city", "bright", "hopeful" ]
+    },
+    "drunk_rats": {
+      "title":   "Drunk Rats",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Arcane Strain",
+      "bodies":  [ "drunk_rats" ],
+      "tags":    [ "rats", "wonky", "drunk", "goofy", "sozzled" ]
+    },
+    "echoes": {
+      "title":   "Echoes",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Shift+",
+      "bodies":  [ "echoes" ],
+      "tags":    [ "slime", "piano", "strings", "ambient", "tunnel", "sewer" ]
+    },
+    "foul_water": {
+      "title":   "Foul Water",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Sinnoh",
+      "bodies":  [ "foul_water" ],
+      "tags":    []
+    },
+    "gootopia": {
+      "title":   "Gootopia",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "equiston",
+      "bodies":  [ "gootopia" ],
+      "tags":    [ "ruins", "slime", "relaxing" ]
+    },
+    "infested_tomb": {
+      "title":   "Infested Tomb",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "equiston",
+      "featuring": [ "Muffintasticman" ],
+      "bodies":  [ "infested_tomb" ],
+      "tags":    [ "catacombs", "slime", "tense", "mysterious" ]
+    },
+    "lost_to_time": {
+      "title":   "Lost to Time",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Sound",
+      "head":    "lost_to_time_intro",
+      "bodies":  [ "lost_to_time_loop" ],
+      "tags":    [ "slime", "chronotorium", "melancholic" ]
+    },
+    "memories_bind_us": {
+      "title":   "Memories Bind Us Together",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Cashwarrior",
+      "bodies":  [ "memories_bind_us" ],
+      "tags":    [ "slime", "ruins", "hopeful", "melancholic", "atmospheric" ]
+    },
+    "penny_for_troubles": {
+      "title":   "A Penny for Your Troubles",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Notecade",
+      "bodies":  [ "penny_for_troubles" ],
+      "tags":    [ "rats" ]
+    },
+    "ruins_alive": {
+      "title":   "Ruins Alive",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "equiston",
+      "bodies":  [ "ruins_alive" ],
+      "tags":    [ "slime", "grand" ]
+    },
+    "sanity_subjective": {
+      "title":   "Sanity is Subjective",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Key",
+      "bodies":  [ "sanity_subjective" ],
+      "tags":    [ "quizzard", "funny", "comical", "upbeat" ]
+    },
+    "slime_down": {
+      "title":   "A Good Old-Fashioned Slime-Down (Whatever That Means)",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Arcane Strain",
+      "bodies":  [ "slime_down" ],
+      "tags":    [ "dance", "slime", "groove", "fun", "upbeat" ]
+    },
+    "slimeworks": {
+      "title":   "Slimeworks",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Cashwarrior",
+      "bodies":  [ "slimeworks" ],
+      "tags":    [ "slime", "village", "bouncy", "jam", "cute" ]
+    },
+    "stuck_in_slime": {
+      "title":   "We're Stuck in Slime!",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Benbinos",
+      "bodies":  [ "stuck_in_slime" ],
+      "tags":    []
+    },
+    "timeless": {
+      "title":   "Timeless",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Arcane Strain",
+      "bodies":  [ "timeless" ],
+      "tags":    [ "somber", "sad", "melancholic", "otherworldly", "tragic" ]
+    },
+    "tolls_of_time": {
+      "title":   "Tolls of Time",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Notecade",
+      "bodies":  [ "tolls_of_time" ],
+      "tags":    []
+    },
+    "trail_of_slime": {
+      "title":   "Following the Trail (of Slime)",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Arcane Strain",
+      "bodies":  [ "trail_of_slime" ],
+      "tags":    [ "slime", "mysterious", "exploratory", "secretive" ]
+    },
+    "usurp": {
+      "title":   "Usurp",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "David Maar",
+      "bodies":  [ "usurp" ],
+      "tags":    []
+    },
+    "viscid_fiends": {
+      "title":   "Viscid Fiends",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "LilJerry",
+      "bodies":  [ "viscid_fiends" ],
+      "tags":    [ "fighting", "battle", "slime", "action", "hype" ]
+    }
+  }
+}
