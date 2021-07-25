@@ -8,11 +8,11 @@
     "Arcane Strain": { "promo": "https://arcanestrain.bandcamp.com/" },
     "Key": { "promo": "https://twitter.com/SporadicRat_" },
     "Cashwarrior": { "promo": "https://www.youtube.com/channel/UCTIYS4YXyp-Rwoo2BRNz_qA" },
+    "Benbinos": {},
     "spookl": {},
     "Sinnoh": {},
     "Notecade": {},
     "David Maar": {},
-    "Benbinos": {},
     "Withered Rose": {},
     "Vinh": {}
   },
@@ -177,10 +177,10 @@
     "stuck_in_slime": {
       "title":   "We're Stuck in Slime!",
       "byGroup": false,
-      "loop":    false,
+      "loop":    true,
       "artist":  "Benbinos",
       "bodies":  [ "stuck_in_slime" ],
-      "tags":    []
+      "tags":    [ "slime", "sewer", "synthy", "cave", "ambient" ]
     },
     "timeless": {
       "title":   "Timeless",
