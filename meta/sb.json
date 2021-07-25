@@ -12,9 +12,13 @@
     "Sinnoh": {},
     "Notecade": {},
     "David Maar": {},
-    "Benbinos": {}
+    "Benbinos": {},
+    "Withered Rose": {},
+    "Vinh": {}
   },
-  "groups": {},
+  "groups": {
+    "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ]
+  },
   "songs": {
     "agoora": {
       "title":   "Agoora",
@@ -145,6 +149,14 @@
       "artist":  "Key",
       "bodies":  [ "sanity_subjective" ],
       "tags":    [ "quizzard", "funny", "comical", "upbeat" ]
+    },
+    "scorched_wastes": {
+      "title":   "The Scorched Wastes",
+      "byGroup": true,
+      "loop":    false,
+      "artist":  "Hellgoop",
+      "bodies":  [ "scorched_wastes" ],
+      "tags":    [ "slime", "quarry", "tribal", "drums", "intense" ]
     },
     "slime_down": {
       "title":   "A Good Old-Fashioned Slime-Down (Whatever That Means)",
