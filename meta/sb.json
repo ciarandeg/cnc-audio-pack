@@ -44,6 +44,14 @@
       "bodies":  [ "black_whistle" ],
       "tags":    [ "slime", "ruins", "melancholic", "strings", "orchestral" ]
     },
+    "bright_canals": {
+      "title":   "Bright Canals",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Shift+",
+      "bodies":  [ "bright_canals" ],
+      "tags":    [ "slime", "agoora", "market", "theme", "ambient" ]
+    },
     "dark_bubbles": {
       "title":   "Dark Bubbles",
       "byGroup": false,
