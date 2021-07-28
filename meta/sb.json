@@ -13,7 +13,7 @@
     "spookl": {},
     "Sinnoh": {},
     "Notecade": {},
-    "David Maar": {},
+    "David Maar": { "promo": "https://open.spotify.com/artist/42c7fh6iKD3HkKvhjitO0M" },
     "Vinh": {}
   },
   "groups": {
@@ -214,13 +214,14 @@
       "bodies":  [ "trail_of_slime" ],
       "tags":    [ "slime", "mysterious", "exploratory", "secretive" ]
     },
-    "usurp": {
-      "title":   "Usurp",
+    "usurpers": {
+      "title":   "Usurpers",
       "byGroup": false,
-      "loop":    false,
+      "loop":    true,
       "artist":  "David Maar",
-      "bodies":  [ "usurp" ],
-      "tags":    []
+      "head":    "usurpers_intro",
+      "bodies":  [ "usurpers_loop" ],
+      "tags":    [ "slime", "ancient", "nostalgic", "melancholic", "pensive", "wistful", "orchestral", "waltz", "minor" ]
     },
     "viscid_fiends": {
       "title":   "Viscid Fiends",
