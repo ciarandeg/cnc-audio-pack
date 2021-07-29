@@ -111,6 +111,15 @@
       "bodies":  [ "foul_water" ],
       "tags":    []
     },
+    "googunk": {
+      "title":   "Googunk Spunk",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Sound",
+      "head":    "googunk_intro",
+      "bodies":  [ "googunk_loop" ],
+      "tags":    [ "slime", "ranch", "badlands", "relaxed", "chill" ]
+    },
     "gootopia": {
       "title":   "Gootopia",
       "byGroup": false,
