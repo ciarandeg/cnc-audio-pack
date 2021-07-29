@@ -146,6 +146,14 @@
       "bodies":  [ "lost_to_time_loop" ],
       "tags":    [ "slime", "chronotorium", "melancholic" ]
     },
+    "litter_lord": {
+      "title":   "Litter Lord",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Sinnoh",
+      "bodies":  [ "litter_lord" ],
+      "tags":    []
+    },
     "memories_bind_us": {
       "title":   "Memories Bind Us Together",
       "byGroup": false,
@@ -161,6 +169,14 @@
       "artist":  "Notecade",
       "bodies":  [ "penny_for_troubles" ],
       "tags":    [ "rats" ]
+    },
+    "prime_slime": {
+      "title":   "Prime Slime Television",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Sinnoh",
+      "bodies":  [ "prime_slime" ],
+      "tags":    []
     },
     "ruins_alive": {
       "title":   "Ruins Alive",
