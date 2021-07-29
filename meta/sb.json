@@ -10,6 +10,7 @@
     "Cashwarrior": { "promo": "https://www.youtube.com/channel/UCTIYS4YXyp-Rwoo2BRNz_qA" },
     "Benbinos": {},
     "Withered Rose": { "promo": "https://witheredrose.bandcamp.com/" },
+    "Little": { "promo": "https://www.francescodagostinomusic.com/" },
     "spookl": {},
     "Sinnoh": {},
     "Notecade": {},
@@ -27,6 +28,16 @@
       "artist":  "equiston",
       "bodies":  [ "agoora" ],
       "tags":    [ "agoora", "slime", "upbeat" ]
+    },
+    "artisan_agoora": {
+      "title":   "Artisan Agoora",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Little",
+      "featuring": [ "Cashwarrior" ],
+      "head":    "artisan_agoora_intro",
+      "bodies":  [ "artisan_agoora_loop" ],
+      "tags":    [ "slime", "agoora", "magical", "accordion", "happy" ]
     },
     "aquatic_sewers": {
       "title":   "Aquatic Sewers",
