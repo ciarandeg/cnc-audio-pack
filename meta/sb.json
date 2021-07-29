@@ -214,7 +214,7 @@
       "bodies":  [ "trail_of_slime" ],
       "tags":    [ "slime", "mysterious", "exploratory", "secretive" ]
     },
-    "usurpers": {
+    "usurp": {
       "title":   "Usurpers",
       "byGroup": false,
       "loop":    true,
