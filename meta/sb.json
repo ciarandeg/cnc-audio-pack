@@ -11,6 +11,7 @@
     "Benbinos": {},
     "Withered Rose": { "promo": "https://witheredrose.bandcamp.com/" },
     "Little": { "promo": "https://www.francescodagostinomusic.com/" },
+    "NinjaKittens": { "promo": "https://www.youtube.com/c/ninjakittens" },
     "spookl": {},
     "Sinnoh": {},
     "Notecade": { "promo": "https://soundcloud.com/user-430375247-630930603" },
@@ -46,6 +47,15 @@
       "artist":  "spookl",
       "bodies":  [ "aquatic_sewers" ],
       "tags":    []
+    },
+    "badlands": {
+      "title":   "Badlands",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "NinjaKittens",
+      "head":    "badlands_intro",
+      "bodies":  [ "badlands_loop" ],
+      "tags":    [ "slime", "badlands", "upbeat", "percussive" ]
     },
     "black_whistle": {
       "title":   "Black Whistle",
