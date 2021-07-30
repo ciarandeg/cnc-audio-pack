@@ -264,9 +264,10 @@
     "tolls_of_time": {
       "title":   "Tolls of Time",
       "byGroup": false,
-      "loop":    false,
+      "loop":    true,
       "artist":  "Notecade",
-      "bodies":  [ "tolls_of_time" ],
+      "head":    "tolls_of_time_intro",
+      "bodies":  [ "tolls_of_time_loop" ],
       "tags":    []
     },
     "trail_of_slime": {
