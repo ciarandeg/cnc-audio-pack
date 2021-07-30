@@ -179,7 +179,7 @@
       "artist":  "Notecade",
       "head":    "penny_for_troubles_intro",
       "bodies":  [ "penny_for_troubles_loop" ],
-      "tags":    [ "rats" ]
+      "tags":    [ "rats", "town", "upbeat", "sneaky" ]
     },
     "prime_slime": {
       "title":   "Prime Slime Television",
@@ -268,7 +268,7 @@
       "artist":  "Notecade",
       "head":    "tolls_of_time_intro",
       "bodies":  [ "tolls_of_time_loop" ],
-      "tags":    []
+      "tags":    [ "chronotorium", "atmospheric", "dark", "ancient" ]
     },
     "trail_of_slime": {
       "title":   "Following the Trail (of Slime)",
