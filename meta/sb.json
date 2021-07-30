@@ -13,7 +13,7 @@
     "Little": { "promo": "https://www.francescodagostinomusic.com/" },
     "NinjaKittens": { "promo": "https://www.youtube.com/c/ninjakittens" },
     "spookl": {},
-    "Sinnoh": {},
+    "Sinnoh": { "promo": "https://soundcloud.com/sinn0h" },
     "Notecade": { "promo": "https://soundcloud.com/user-430375247-630930603" },
     "David Maar": { "promo": "https://open.spotify.com/artist/42c7fh6iKD3HkKvhjitO0M" },
     "Vinh": {}
@@ -119,7 +119,7 @@
       "loop":    false,
       "artist":  "Sinnoh",
       "bodies":  [ "foul_water" ],
-      "tags":    []
+      "tags":    [ "slime", "sewer", "anxious", "synthy", "dark" ]
     },
     "googunk": {
       "title":   "Googunk Spunk",
@@ -162,7 +162,7 @@
       "loop":    false,
       "artist":  "Sinnoh",
       "bodies":  [ "litter_lord" ],
-      "tags":    []
+      "tags":    [ "slime", "sewer", "battle", "energetic" ]
     },
     "memories_bind_us": {
       "title":   "Memories Bind Us Together",
@@ -187,7 +187,15 @@
       "loop":    false,
       "artist":  "Sinnoh",
       "bodies":  [ "prime_slime" ],
-      "tags":    []
+      "tags":    [ "slime", "slimeantha", "upbeat", "pop", "vocals" ]
+    },
+    "regil" : {
+      "title":   "Regil (The Bane of Aquila)",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Sinnoh",
+      "bodies":  [ "regil" ],
+      "tags":    [ "ruins", "calm", "ambient", "piano" ]
     },
     "ruins_alive": {
       "title":   "Ruins Alive",
