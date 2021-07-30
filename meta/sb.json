@@ -175,9 +175,10 @@
     "penny_for_troubles": {
       "title":   "A Penny for Your Troubles",
       "byGroup": false,
-      "loop":    false,
+      "loop":    true,
       "artist":  "Notecade",
-      "bodies":  [ "penny_for_troubles" ],
+      "head":    "penny_for_troubles_intro",
+      "bodies":  [ "penny_for_troubles_loop" ],
       "tags":    [ "rats" ]
     },
     "prime_slime": {
