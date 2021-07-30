@@ -213,6 +213,14 @@
       "bodies":  [ "sanity_subjective" ],
       "tags":    [ "quizzard", "funny", "comical", "upbeat" ]
     },
+    "scape_sewer1": {
+      "title":   "Sewerscape",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "equiston",
+      "bodies":  [ "scape_sewer1" ],
+      "tags":    [ "slime", "soundscape", "sewer" ]
+    },
     "scorched_wastes": {
       "title":   "The Scorched Wastes",
       "byGroup": true,
