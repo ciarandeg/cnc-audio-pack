@@ -221,6 +221,14 @@
       "bodies":  [ "scape_sewer1" ],
       "tags":    [ "slime", "soundscape", "sewer" ]
     },
+    "scape_coastalcave1": {
+      "title":   "Coastal Cave Soundscape",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Shift+",
+      "bodies":  [ "scape_coastalcave1" ],
+      "tags":    [ "rats", "soundscape", "coast", "cave" ]
+    },
     "scorched_wastes": {
       "title":   "The Scorched Wastes",
       "byGroup": true,
