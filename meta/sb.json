@@ -16,10 +16,12 @@
     "Sinnoh": { "promo": "https://soundcloud.com/sinn0h" },
     "Notecade": { "promo": "https://soundcloud.com/user-430375247-630930603" },
     "David Maar": { "promo": "https://open.spotify.com/artist/42c7fh6iKD3HkKvhjitO0M" },
-    "Vinh": {}
+    "Vinh": {},
+    "AJCW": { "promo": "https://electricsheap.bandcamp.com/" }
   },
   "groups": {
-    "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ]
+    "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
+    "Slime Muffin": [ "AJCW", "Muffintasticman" ]
   },
   "songs": {
     "agoora": {
@@ -302,6 +304,14 @@
       "artist":  "LilJerry",
       "bodies":  [ "viscid_fiends" ],
       "tags":    [ "fighting", "battle", "slime", "action", "hype" ]
+    },
+    "viscous_aquaduct": {
+      "title":   "Viscous Aquaduct",
+      "byGroup": true,
+      "loop":    true,
+      "artist":  "Slime Muffin",
+      "bodies":  [ "viscous_aquaduct" ],
+      "tags":    [ "slime", "sewer", "tunnel", "mysterious" ]
     }
   }
 }
