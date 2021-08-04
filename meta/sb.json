@@ -75,6 +75,14 @@
       "bodies":  [ "bright_canals" ],
       "tags":    [ "slime", "agoora", "market", "theme", "ambient" ]
     },
+    "calm_night": {
+      "title":   "Calm Summer Night",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Shift+",
+      "bodies":  [ "calm_night" ],
+      "tags":    [ "slime", "ruins", "piano", "relaxing", "chill", "peaceful" ]
+    },
     "dark_bubbles": {
       "title":   "Dark Bubbles",
       "byGroup": false,
