@@ -223,14 +223,6 @@
       "bodies":  [ "sanity_subjective" ],
       "tags":    [ "quizzard", "funny", "comical", "upbeat" ]
     },
-    "scape_sewer1": {
-      "title":   "Sewerscape",
-      "byGroup": false,
-      "loop":    true,
-      "artist":  "equiston",
-      "bodies":  [ "scape_sewer1" ],
-      "tags":    [ "slime", "soundscape", "sewer" ]
-    },
     "scape_coastalcave1": {
       "title":   "Coastal Cave Soundscape",
       "byGroup": false,
@@ -238,6 +230,30 @@
       "artist":  "Shift+",
       "bodies":  [ "scape_coastalcave1" ],
       "tags":    [ "rats", "soundscape", "coast", "cave" ]
+    },
+    "scape_chronotorium1": {
+      "title":   "Timelocked Ambience",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Shift+",
+      "bodies":  [ "scape_chronotorium1" ],
+      "tags":    [ "slime", "soundscape", "human", "chronotorium" ]
+    },
+    "scape_ruins1": {
+      "title":   "Populated Ruins",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Shift+",
+      "bodies":  [ "scape_ruins1" ],
+      "tags":    [ "slime", "soundscape", "ruins", "busy" ]
+    },
+    "scape_sewer1": {
+      "title":   "Sewerscape",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "equiston",
+      "bodies":  [ "scape_sewer1" ],
+      "tags":    [ "slime", "soundscape", "sewer" ]
     },
     "scorched_wastes": {
       "title":   "The Scorched Wastes",
