@@ -21,7 +21,7 @@
   },
   "groups": {
     "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
-    "Slime Muffin": [ "AJCW", "Muffintasticman" ]
+    "Slimy Muffin": [ "AJCW", "Muffintasticman" ]
   },
   "songs": {
     "agoora": {
@@ -333,7 +333,7 @@
       "title":   "Viscous Aquaduct",
       "byGroup": true,
       "loop":    true,
-      "artist":  "Slime Muffin",
+      "artist":  "Slimy Muffin",
       "bodies":  [ "viscous_aquaduct" ],
       "tags":    [ "slime", "sewer", "tunnel", "mysterious" ]
     }
