@@ -31,6 +31,7 @@ if [ $NORMALIZE = true ] ; then
     echo "Normalizing $f..."
     sox "$f" "../$NORMED_DIR_PATH/$f" norm $NORM_DB
   done
+  cd ..
 fi
 
 # ~~~ BUILD RESOURCE PACK ~~~
