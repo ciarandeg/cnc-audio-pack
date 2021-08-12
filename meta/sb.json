@@ -191,6 +191,14 @@
       "bodies":  [ "penny_for_troubles_loop" ],
       "tags":    [ "rats", "town", "upbeat", "sneaky" ]
     },
+    "pipes_leak": {
+      "title":   "The Pipes Leak",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "LilJerry",
+      "bodies":  [ "pipes_leak" ],
+      "tags":    [ "slime", "intense", "battle", "combat" ]
+    },
     "prime_slime": {
       "title":   "Prime Slime Television",
       "byGroup": false,
