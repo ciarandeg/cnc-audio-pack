@@ -17,11 +17,13 @@
     "Notecade": { "promo": "https://soundcloud.com/user-430375247-630930603" },
     "David Maar": { "promo": "https://open.spotify.com/artist/42c7fh6iKD3HkKvhjitO0M" },
     "Vinh": {},
-    "AJCW": { "promo": "https://electricsheap.bandcamp.com/" }
+    "AJCW": { "promo": "https://electricsheap.bandcamp.com/" },
+    "Techno Cinema": { "promo": "https://www.technocinema.com/" }
   },
   "groups": {
     "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
-    "Slimy Muffin": [ "AJCW", "Muffintasticman" ]
+    "Slimy Muffin": [ "AJCW", "Muffintasticman" ],
+    "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ]
   },
   "songs": {
     "agoora": {
@@ -189,6 +191,15 @@
       "artist":  "Cashwarrior",
       "bodies":  [ "memories_bind_us" ],
       "tags":    [ "slime", "ruins", "hopeful", "melancholic", "atmospheric" ]
+    },
+    "not_over_easy": {
+      "title":   "Not Over-Easy",
+      "byGroup": true,
+      "loop":    true,
+      "artist":  "Moms for the Apocalypse",
+      "head":    "not_over_easy_intro",
+      "bodies":  [ "not_over_easy_loop" ],
+      "tags":    [ "slime", "boss", "epic", "battle" ]
     },
     "penny_for_troubles": {
       "title":   "A Penny for Your Troubles",
