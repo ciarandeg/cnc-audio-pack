@@ -83,6 +83,14 @@
       "bodies":  [ "calm_night" ],
       "tags":    [ "slime", "ruins", "piano", "relaxing", "chill", "peaceful" ]
     },
+    "cretaceous_canyon": {
+      "title":   "Cretaceous Canyon",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "equiston",
+      "bodies":  [ "cretaceous_canyon" ],
+      "tags":    [ "quarry", "badlands", "slime", "tense" ]
+    },
     "dark_bubbles": {
       "title":   "Dark Bubbles",
       "byGroup": false,
