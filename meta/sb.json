@@ -18,13 +18,16 @@
     "David Maar": { "promo": "https://open.spotify.com/artist/42c7fh6iKD3HkKvhjitO0M" },
     "Vinh": {},
     "AJCW": { "promo": "https://electricsheap.bandcamp.com/" },
-    "Techno Cinema": { "promo": "https://www.technocinema.com/" }
+    "Techno Cinema": { "promo": "https://www.technocinema.com/" },
+    "Andech": { "promo": "https://soundcloud.com/andech" },
+    "Blue Typhoon": {}
   },
   "groups": {
     "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
     "Slimy Muffin": [ "AJCW", "Muffintasticman" ],
     "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ],
-    "Atone": [ "spookl", "Sinnoh" ]
+    "Atone": [ "spookl", "Sinnoh" ],
+    "S.A.D.I.S.T.": [ "Andech", "Blue Typhoon", "Notecade" ]
   },
   "songs": {
     "agoora": {
@@ -388,6 +391,14 @@
       "artist":  "Slimy Muffin",
       "bodies":  [ "viscous_aquaduct" ],
       "tags":    [ "slime", "sewer", "tunnel", "mysterious" ]
+    },
+    "where_did_our_time_go": {
+      "title":   "Where Did Our Time Go",
+      "byGroup": true,
+      "loop":    true,
+      "artist":  "S.A.D.I.S.T.",
+      "bodies":  [ "where_did_our_time_go" ],
+      "tags":    [ "slime", "timelock", "plaza", "somber" ]
     },
     "which_doctor": {
       "title":   "Which Doctor?",
