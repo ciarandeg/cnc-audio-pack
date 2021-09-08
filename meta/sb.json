@@ -217,6 +217,15 @@
       "bodies":  [ "not_over_easy_loop" ],
       "tags":    [ "slime", "boss", "epic", "battle" ]
     },
+    "once_upon_a_slime_e1": {
+      "title":   "Once Upon a Slime: Episode 1",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Sinnoh",
+      "featuring": "Muffintasticman",
+      "bodies":  [ "once_upon_a_slime_e1" ],
+      "tags":    [ "test", "vocals", "joke", "ambient" ]
+    },
     "penny_for_troubles": {
       "title":   "A Penny for Your Troubles",
       "byGroup": false,
