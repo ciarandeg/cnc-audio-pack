@@ -23,7 +23,8 @@
   "groups": {
     "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
     "Slimy Muffin": [ "AJCW", "Muffintasticman" ],
-    "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ]
+    "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ],
+    "Atone": [ "spookl", "Sinnoh" ]
   },
   "songs": {
     "agoora": {
@@ -338,6 +339,14 @@
       "head":    "tolls_of_time_intro",
       "bodies":  [ "tolls_of_time_loop" ],
       "tags":    [ "chronotorium", "atmospheric", "dark", "ancient" ]
+    },
+    "too_late": {
+      "title":   "It's Too Late for Us",
+      "byGroup": true,
+      "loop":    false,
+      "artist":  "Atone",
+      "bodies":  [ "too_late" ],
+      "tags":    [ "chronotorium", "synth", "aimless", "melancholic" ]
     },
     "trail_of_slime": {
       "title":   "Following the Trail (of Slime)",
