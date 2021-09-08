@@ -20,14 +20,18 @@
     "AJCW": { "promo": "https://electricsheap.bandcamp.com/" },
     "Techno Cinema": { "promo": "https://www.technocinema.com/" },
     "Andech": { "promo": "https://soundcloud.com/andech" },
-    "Blue Typhoon": {}
+    "Blue Typhoon": {},
+    "Dennis Feklistov": {},
+    "Ethan Voss": { "promo": "https://ethanvoss.bandcamp.com/" },
+    "Lenny": {}
   },
   "groups": {
     "Hellgoop": [ "Arcane Strain", "Withered Rose", "Vinh" ],
     "Slimy Muffin": [ "AJCW", "Muffintasticman" ],
     "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ],
     "Atone": [ "Sinnoh", "spookl" ],
-    "S.A.D.I.S.T.": [ "Andech", "Blue Typhoon", "Notecade" ]
+    "S.A.D.I.S.T.": [ "Andech", "Blue Typhoon", "Notecade" ],
+    "Funkeys": [ "Dennis Feklistov", "Ethan Voss", "Lenny" ]
   },
   "songs": {
     "agoora": {
@@ -237,6 +241,14 @@
       "artist":  "Sinnoh",
       "bodies":  [ "prime_slime" ],
       "tags":    [ "slime", "slimeantha", "upbeat", "pop", "vocals" ]
+    },
+    "rats_were_big" : {
+      "title":   "The Rats Were This Big",
+      "byGroup": true,
+      "loop":    true,
+      "artist":  "Funkeys",
+      "bodies":  [ "rats_were_big" ],
+      "tags":    [ "rats", "town", "sewer", "pirate", "underground" ]
     },
     "regil" : {
       "title":   "Regil (The Bane of Aquila)",
