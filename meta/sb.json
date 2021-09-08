@@ -306,6 +306,14 @@
       "bodies":  [ "slimeworks" ],
       "tags":    [ "slime", "village", "bouncy", "jam", "cute" ]
     },
+    "steam_train_victory": {
+      "title":   "Steam Train Victory!",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Little",
+      "bodies":  [ "steam_train_victory" ],
+      "tags":    [ "epic", "fanfare", "victory", "orchestral" ]
+    },
     "stuck_in_slime": {
       "title":   "We're Stuck in Slime!",
       "byGroup": false,
