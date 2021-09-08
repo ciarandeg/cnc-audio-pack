@@ -440,7 +440,7 @@
     "which_doctor": {
       "title":   "Which Doctor?",
       "byGroup": false,
-      "loop":    false,
+      "loop":    true,
       "artist":  "Muffintasticman",
       "bodies":  [ "which_doctor" ],
       "tags":    [ "badlands", "hut", "witch", "quizzard" ]
