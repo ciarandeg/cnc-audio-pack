@@ -230,7 +230,7 @@
       "byGroup": false,
       "loop":    true,
       "artist":  "Sinnoh",
-      "featuring": "Muffintasticman",
+      "featuring": [ "Muffintasticman" ],
       "bodies":  [ "once_upon_a_slime_e1" ],
       "tags":    [ "test", "vocals", "joke", "ambient" ]
     },
