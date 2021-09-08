@@ -69,6 +69,14 @@
       "bodies":  [ "badlands_loop" ],
       "tags":    [ "slime", "badlands", "upbeat", "percussive" ]
     },
+    "barrens_numinus": {
+      "title":   "Barrens Numinus",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "LilJerry",
+      "bodies":  [ "barrens_numinus" ],
+      "tags":    [ "badlands", "quarry", "desert", "desolate", "tribal" ]
+    },
     "black_whistle": {
       "title":   "Black Whistle",
       "byGroup": false,
