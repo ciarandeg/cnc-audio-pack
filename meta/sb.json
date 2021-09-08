@@ -314,6 +314,14 @@
       "bodies":  [ "scorched_wastes" ],
       "tags":    [ "slime", "quarry", "tribal", "drums", "intense" ]
     },
+    "shop_til_you_drop": {
+      "title":   "Shop 'Til You Drop",
+      "byGroup": false,
+      "loop":    false,
+      "artist":  "Sinnoh",
+      "bodies":  [ "shop_til_you_drop" ],
+      "tags":    [ "funk", "agoora", "chill", "town" ]
+    },
     "slime_down": {
       "title":   "A Good Old-Fashioned Slime-Down (Whatever That Means)",
       "byGroup": false,
