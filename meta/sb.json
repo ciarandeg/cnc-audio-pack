@@ -315,6 +315,14 @@
       "bodies":  [ "scape_chronotorium1" ],
       "tags":    [ "slime", "soundscape", "human", "chronotorium" ]
     },
+    "scape_chronotorium2": {
+      "title":   "Lecture Hall",
+      "byGroup": false,
+      "loop":    true,
+      "artist":  "Shift+",
+      "bodies":  [ "scape_chronotorium2" ],
+      "tags":    [ "slime", "soundscape", "human", "chronotorium" ]
+    },
     "scape_ruins1": {
       "title":   "Populated Ruins",
       "byGroup": false,
