@@ -20,7 +20,6 @@
     "AJCW": { "promo": "https://electricsheap.bandcamp.com/" },
     "Techno Cinema": { "promo": "https://www.technocinema.com/" },
     "Andech": { "promo": "https://soundcloud.com/andech" },
-    "Blue Typhoon": {},
     "Dennis Feklistov": { "promo": "https://soundcloud.com/user-582633322" },
     "Ethan Voss": { "promo": "https://ethanvoss.bandcamp.com/" },
     "Lenny": { "promo": "https://soundcloud.com/aemaethmusic" }
@@ -30,7 +29,7 @@
     "Slimy Muffin": [ "AJCW", "Muffintasticman" ],
     "Moms for the Apocalypse": [ "equiston", "Key", "Techno Cinema" ],
     "Atone": [ "Sinnoh", "spookl" ],
-    "S.A.D.I.S.T.": [ "Andech", "Blue Typhoon", "Notecade" ],
+    "S.A.D.I.S.T.": [ "Andech", "Notecade" ],
     "Funkeys": [ "Dennis Feklistov", "Ethan Voss", "Lenny" ]
   },
   "songs": {
