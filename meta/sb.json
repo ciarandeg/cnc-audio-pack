@@ -290,12 +290,12 @@
       "bodies":  [ "sanity_subjective" ],
       "tags":    [ "quizzard", "funny", "comical", "upbeat" ]
     },
-    "scape_catacombs": {
+    "scape_catacombs1": {
       "title":   "Catacombs Soundscape",
       "byGroup": false,
       "loop":    true,
       "artist":  "Shift+",
-      "bodies":  [ "scape_catacombs" ],
+      "bodies":  [ "scape_catacombs1" ],
       "tags":    [ "soundscape", "catacombs" ]
     },
     "scape_coastalcave1": {
