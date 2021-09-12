@@ -1,6 +1,6 @@
 #!/bin/sh
 
-VERSION="1.5.0"
+VERSION="1.5.1"
 NORMALIZE=false # remember, sox doesn't like mp3 files
 NORM_DB="-5.0"
 
